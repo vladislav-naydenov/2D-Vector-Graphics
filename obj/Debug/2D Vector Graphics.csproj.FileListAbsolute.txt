@@ -1,0 +1,106 @@
+D:\Владиславко\2D Vector Graphics\RGDRAW\bin\Debug\Draw.pdb
+D:\Владиславко\2D Vector Graphics\RGDRAW\obj\Debug\ResolveAssemblyReference.cache
+D:\Владиславко\2D Vector Graphics\RGDRAW\obj\Debug\GenerateResource.read.1.tlog
+D:\Владиславко\2D Vector Graphics\RGDRAW\obj\Debug\GenerateResource.write.1.tlog
+D:\Владиславко\2D Vector Graphics\RGDRAW\obj\Debug\_2D_Vector_Graphics.MainForm.resources
+D:\Владиславко\2D Vector Graphics\RGDRAW\obj\Debug\_2D_Vector_Graphics.Properties.Resources.resources
+D:\Владиславко\2D Vector Graphics\RGDRAW\bin\Debug\2D Vector Graphics.exe.config
+D:\Владиславко\2D Vector Graphics\RGDRAW\bin\Debug\2D Vector Graphics.exe
+D:\Владиславко\2D Vector Graphics\RGDRAW\bin\Debug\2D Vector Graphics.pdb
+D:\Владиславко\2D Vector Graphics\RGDRAW\obj\Debug\2D Vector Graphics.exe
+D:\Владиславко\2D Vector Graphics\RGDRAW\obj\Debug\2D Vector Graphics.pdb
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe.config
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\obj\Debug\2D Vector Graphics.exe
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\obj\Debug\2D Vector Graphics.pdb
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\bin\Debug\2D Vector Graphics.pdb
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\bin\Debug\Draw.pdb
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\obj\Debug\ResolveAssemblyReference.cache
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.MainForm.resources
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.Properties.Resources.resources
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\obj\Debug\GenerateResource.read.1.tlog
+D:\Владиславко\2D Vector Graphics\2D Vector Graphics\obj\Debug\GenerateResource.write.1.tlog
+D:\Games\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe.config
+D:\Games\2D Vector Graphics\obj\Debug\2D Vector Graphics.exe
+D:\Games\2D Vector Graphics\obj\Debug\2D Vector Graphics.pdb
+D:\Games\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe
+D:\Games\2D Vector Graphics\bin\Debug\2D Vector Graphics.pdb
+D:\Games\2D Vector Graphics\bin\Debug\Draw.pdb
+D:\Games\2D Vector Graphics\obj\Debug\ResolveAssemblyReference.cache
+D:\Games\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.MainForm.resources
+D:\Games\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.Properties.Resources.resources
+D:\Games\2D Vector Graphics\obj\Debug\GenerateResource.read.1.tlog
+D:\Games\2D Vector Graphics\obj\Debug\GenerateResource.write.1.tlog
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe.config
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\2D Vector Graphics.exe
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\2D Vector Graphics.pdb
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\bin\Debug\2D Vector Graphics.pdb
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\bin\Debug\Draw.pdb
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\ResolveAssemblyReference.cache
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.Properties.Resources.resources
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\GenerateResource.read.1.tlog
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\GenerateResource.write.1.tlog
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe.config
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\2D Vector Graphics.exe
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\2D Vector Graphics.pdb
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\bin\Debug\2D Vector Graphics.pdb
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\bin\Debug\Draw.pdb
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\2D Vector Graphics.csprojResolveAssemblyReference.cache
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.MainForm.resources
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.Properties.Resources.resources
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\2D Vector Graphics.csproj.GenerateResource.Cache
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.Main_Window.resources
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.AboutBox.resources
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetBorderWidthForm.resources
+H:\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetNameForm.resources
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.AboutBox.resources
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetBorderWidthForm.resources
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetNameForm.resources
+D:\Владиславко\Books\Програмиране\Кoмпютърна графика\My Project\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.MainForm.resources
+D:\Владиславко\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe.config
+D:\Владиславко\2D Vector Graphics\obj\Debug\2D Vector Graphics.exe
+D:\Владиславко\2D Vector Graphics\obj\Debug\2D Vector Graphics.pdb
+D:\Владиславко\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe
+D:\Владиславко\2D Vector Graphics\bin\Debug\2D Vector Graphics.pdb
+D:\Владиславко\2D Vector Graphics\bin\Debug\Draw.pdb
+D:\Владиславко\2D Vector Graphics\obj\Debug\ResolveAssemblyReference.cache
+D:\Владиславко\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.AboutBox.resources
+D:\Владиславко\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.MainForm.resources
+D:\Владиславко\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetBorderWidthForm.resources
+D:\Владиславко\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetNameForm.resources
+D:\Владиславко\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.Properties.Resources.resources
+D:\Владиславко\2D Vector Graphics\obj\Debug\GenerateResource.read.1.tlog
+D:\Владиславко\2D Vector Graphics\obj\Debug\GenerateResource.write.1.tlog
+D:\Владиславко\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.MainWindow.resources
+D:\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe.config
+D:\2D Vector Graphics\obj\Debug\2D Vector Graphics.exe
+D:\2D Vector Graphics\obj\Debug\2D Vector Graphics.pdb
+D:\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe
+D:\2D Vector Graphics\bin\Debug\2D Vector Graphics.pdb
+D:\2D Vector Graphics\bin\Debug\Draw.pdb
+D:\2D Vector Graphics\obj\Debug\2D Vector Graphics.csprojResolveAssemblyReference.cache
+D:\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.AboutBox.resources
+D:\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.MainForm.resources
+D:\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.MainWindow.resources
+D:\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetBorderWidthForm.resources
+D:\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetNameForm.resources
+D:\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.Properties.Resources.resources
+D:\2D Vector Graphics\obj\Debug\2D Vector Graphics.csproj.GenerateResource.Cache
+D:\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.Rotation.resources
+G:\MyWorks\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe.config
+G:\MyWorks\2D Vector Graphics\obj\Debug\2D Vector Graphics.exe
+G:\MyWorks\2D Vector Graphics\obj\Debug\2D Vector Graphics.pdb
+G:\MyWorks\2D Vector Graphics\obj\Debug\2D Vector Graphics.csprojResolveAssemblyReference.cache
+G:\MyWorks\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.AboutBox.resources
+G:\MyWorks\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.MainForm.resources
+G:\MyWorks\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.MainWindow.resources
+G:\MyWorks\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.Rotation.resources
+G:\MyWorks\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetBorderWidthForm.resources
+G:\MyWorks\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.GUI.SetNameForm.resources
+G:\MyWorks\2D Vector Graphics\obj\Debug\_2D_Vector_Graphics.Properties.Resources.resources
+G:\MyWorks\2D Vector Graphics\obj\Debug\2D Vector Graphics.csproj.GenerateResource.Cache
+G:\MyWorks\2D Vector Graphics\bin\Debug\2D Vector Graphics.exe
+G:\MyWorks\2D Vector Graphics\bin\Debug\2D Vector Graphics.pdb
+G:\MyWorks\2D Vector Graphics\bin\Debug\Draw.pdb

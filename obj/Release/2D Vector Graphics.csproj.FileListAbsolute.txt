@@ -1,0 +1,16 @@
+D:\2D Vector Graphics\bin\Release\2D Vector Graphics.exe.config
+D:\2D Vector Graphics\obj\Release\2D Vector Graphics.csprojResolveAssemblyReference.cache
+D:\2D Vector Graphics\obj\Release\_2D_Vector_Graphics.GUI.AboutBox.resources
+D:\2D Vector Graphics\obj\Release\_2D_Vector_Graphics.GUI.MainForm.resources
+D:\2D Vector Graphics\obj\Release\_2D_Vector_Graphics.GUI.MainWindow.resources
+D:\2D Vector Graphics\obj\Release\_2D_Vector_Graphics.GUI.Rotation.resources
+D:\2D Vector Graphics\obj\Release\_2D_Vector_Graphics.GUI.SetBorderWidthForm.resources
+D:\2D Vector Graphics\obj\Release\_2D_Vector_Graphics.GUI.SetNameForm.resources
+D:\2D Vector Graphics\obj\Release\_2D_Vector_Graphics.Properties.Resources.resources
+D:\2D Vector Graphics\obj\Release\2D Vector Graphics.csproj.GenerateResource.Cache
+D:\2D Vector Graphics\bin\Release\2D Vector Graphics.exe
+D:\2D Vector Graphics\bin\Release\2D Vector Graphics.pdb
+D:\2D Vector Graphics\bin\Release\Draw.exe
+D:\2D Vector Graphics\bin\Release\Draw.pdb
+D:\2D Vector Graphics\obj\Release\2D Vector Graphics.exe
+D:\2D Vector Graphics\obj\Release\2D Vector Graphics.pdb
